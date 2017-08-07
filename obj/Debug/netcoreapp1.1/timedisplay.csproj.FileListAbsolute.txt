@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/core/timedisplay/bin/Debug/netcoreapp1.1/timedisplay.deps.json
+/home/hermitwife/cojo/dotnetcore/core/timedisplay/bin/Debug/netcoreapp1.1/timedisplay.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/core/timedisplay/bin/Debug/netcoreapp1.1/timedisplay.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/core/timedisplay/obj/Debug/netcoreapp1.1/timedisplay.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/core/timedisplay/bin/Debug/netcoreapp1.1/timedisplay.dll
+/home/hermitwife/cojo/dotnetcore/core/timedisplay/bin/Debug/netcoreapp1.1/timedisplay.pdb
+/home/hermitwife/cojo/dotnetcore/core/timedisplay/obj/Debug/netcoreapp1.1/timedisplay.dll
+/home/hermitwife/cojo/dotnetcore/core/timedisplay/obj/Debug/netcoreapp1.1/timedisplay.pdb
